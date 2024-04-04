@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do LucasLaino 😁
+## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/LucasLaino">
@@ -19,6 +19,6 @@
 ### Meus contatos!
  
 <div> 
-  <a href = "mailto:lucaslaino00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-laino-78ab7b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%250077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucaslaino00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-laino-78ab7b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
