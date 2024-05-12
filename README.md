@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
+- Sou estudande de ciência da computação, estou no 5° período e quero me tornar um desenvolverdor full stack. 🚀
+- Atualmente focado em programação front-end. 🖥️
+
  <div>
    <a href="https://github.com/LucasLaino">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLaino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
