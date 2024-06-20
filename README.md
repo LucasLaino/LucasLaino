@@ -1,14 +1,17 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
-- Sou estudande de ciência da computação, estou no 5° período e quero me tornar um desenvolverdor full stack. 🚀
-- Atualmente focado em programação front-end. 🖥️
+- Sou estudande de ciência da computação, atualmente estou no 6° periodo com previsão de formação em Dezembro de 2025;
+- Sou aluno do curso Dev Quest de desenvolvimento Full Stack do Dev em Dobro;
+- Possuo certificado de curso sobre Git/Github e certificado MET(Michigan English Test);
+- Atualmente focado em programação front-end. 
 
  <div>
    <a href="https://github.com/LucasLaino">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLaino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaino&layout=compact&langs_count=6&theme=dark"/>
 </div>
-    
+
+ ### Possuo conhecimento nas seguintes Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
  <img align= "center" alt=CSS" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
