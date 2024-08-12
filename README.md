@@ -12,12 +12,11 @@
 </section>
 
  ## Tecnologias que eu uso no dia-a-dia:
- <hr>
 
  ### Linguagens e Tecnologias:
  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
- ## Ferramentas e Plataformas:
+ 
+ ### Ferramentas e Plataformas:
 
  [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma)](https://skillicons.dev)
 
