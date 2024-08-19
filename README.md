@@ -49,4 +49,4 @@
 
 <br><br><br><br>
 
-![Snake animation](https://github.com/LucasLaino/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/LucasLaino/LucasLaino/blob/output/github-contribution-grid-snake.gif)
