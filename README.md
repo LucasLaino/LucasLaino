@@ -21,7 +21,7 @@
 <img align="right" src="./images/coding.jpg" width="300px" height="250px" alt="dev">
  <p align= center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jest,git,github,vscode,figma&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,jest,git,github,vscode,figma&perline=4">
   </a>
 </p>
 </section>
@@ -31,7 +31,7 @@
 <h1 align= center>🗨️ <i>Contatos</i> 💬</h1>
  
 <p align= center> 
-  <a href="https://drive.google.com/file/d/17oHGcEzxM0KxzuUUftJnahgzrJpAS05Y/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-311b92?style=for-the-badge&"></a>
+  <a href="https://drive.google.com/file/d/1fgQ7gUgouiX1M4Bcs1MQavkmIgtyhfUr/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-311b92?style=for-the-badge&"></a>
   <a href = "mailto:lucaslaino00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucaslaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
@@ -48,5 +48,3 @@
    </section>
 
 <br><br><br><br>
-
-![snake gif](https://github.com/LucasLaino/LucasLaino/blob/output/github-contribution-grid-snake.gif)
