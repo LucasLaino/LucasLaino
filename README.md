@@ -21,7 +21,7 @@
 <img align="right" src="./images/coding.jpg" width="300px" height="250px" alt="dev">
  <p align= center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,jest,git,github,vscode,figma&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,jest,postgresql,git,github,vscode,figma&perline=4">
   </a>
 </p>
 </section>
