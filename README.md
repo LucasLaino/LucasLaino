@@ -21,14 +21,14 @@
 <img align="right" src="./images/coding.jpg" width="300px" height="250px" alt="dev">
  <p align= center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,jest,postgresql,git,github,vscode,figma&perline=4">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,jest,postgresql,git,github,vscode,figma,vercel,npm&perline=4">
   </a>
 </p>
 </section>
 
 <br><br><br><br><br>
 
-<h1 align= center>🗨️ <i>Contatos</i> 💬</h1>
+<h1 align= center>💬 <i>Contatos</i> 💬</h1>
  
 <p align= center> 
   <a href="https://drive.google.com/file/d/1fgQ7gUgouiX1M4Bcs1MQavkmIgtyhfUr/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-311b92?style=for-the-badge&"></a>
@@ -40,11 +40,13 @@
 
 <h1 align= center>📈 <i>Atividade</i> 📈</h1> 
 <section>
-  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=LucasLaino&show_icons=true&custom_title=LucasLaino's%20Github%20Stats&theme=dark&hide_border=true">
+  <img style="border: 1px solid white; border-radius: 4px;" height="200px" src="https://github-readme-stats.vercel.app/api?username=LucasLaino&show_icons=true&custom_title=LucasLaino's%20Github%20Stats&theme=dark&hide_border=true">
    
-   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaino&layout=compact&langs_count=6&theme=dark"/>
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaino&layout=compact&langs_count=6&theme=dark"/>
 
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LucasLaino&theme=dark&border_radius=1&locale=en&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=400&card_height=180" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LucasLaino&theme=dark&border_radius=1&locale=en&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=400&card_height=200" alt="GitHub Streak" /></a>
    </section>
 
 <br><br><br><br>
+
+![snake gif](https://github.com/LucasLaino/LucasLaino/blob/output/github-contribution-grid-snake.svg)
