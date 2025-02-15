@@ -7,23 +7,117 @@
 
 <ul align= left>
 <li> 🚀 Sou um desenvolvedor Frontend júnior, ambicioso, focado para crescer na carreira e sempre buscando construir projetos escaláveis e de fácil manutenção. Estou me dedicando ao máximo no ramo da tecnologia.</li><br>
-<li> 🖥️ Atualmente eu faço faculdade na área de Ciência da Computação, estou no 6° período e com previsão de formação para dezembro de 2025.</li><br>
+<li> 🖥️ Atualmente estou cursando o 7° semestre de Ciência da Computação na UniCarioca.</li><br>
 <li> 🧙🏻‍♂️ Sou Aluno do curso Dev Quest - Desenvolvimento Full Stack do Dev em Dobro.</li><br> 
 <li> 🔮 Meu objetivo futuro é me tornar um programador Full Stack e impactar positivamente na vida das pessoas com o meu trabalho.</li>
 </ul>
 </section>
 
-<br><br><br><br>
+<br><br><br>
 
- <h1 align= center>⚒️ <i>Tecnologias</i> ⚒️</h1>
+ <h1 align= center>⚒️ <i>Habilidades Técnicas</i> ⚒️</h1>
 
 <section>
-<img align="right" src="./images/coding.jpg" width="300px" height="250px" alt="dev">
- <p align= center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,vite,jest,npm,postgresql,git,github,vscode,figma,vercel&perline=5">
-  </a>
-</p>
+<img align="left" src="./images/coding.jpg" width="300px" height="250px" alt="dev">
+ <table align="right" height="300px" width="275px" style="width: 350px">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="50px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="50px" alt=" icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>Jest</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>Redux</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>CSS3</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github"width="50px" alt="icon"/><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
 </section>
 
 <br><br><br><br><br>
@@ -31,12 +125,12 @@
 <h1 align= center>💬 <i>Contatos</i> 💬</h1>
  
 <p align= center> 
-  <a href="https://drive.google.com/file/d/1QSoJh2SEa_YB4cB5nhHRPmdT6fLuFAS1/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-311b92?style=for-the-badge&"></a>
+  <a href="https://drive.google.com/file/d/1Q3C6uXMzA1TZQ2RIV2dLIUC3J3gD40JM/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-311b92?style=for-the-badge&"></a>
   <a href = "mailto:lucaslaino00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucaslaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-<br><br>
+<br>
 
 <h1 align= center>📈 <i>Atividade</i> 📈</h1> 
 <section>
