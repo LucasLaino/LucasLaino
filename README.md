@@ -125,7 +125,7 @@
 <h1 align= center>💬 <i>Contatos</i> 💬</h1>
  
 <p align= center> 
-  <a href="https://drive.google.com/file/d/1c2jjipkQV9GrTl_hvRyddsNRBeeriNd0/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-311b92?style=for-the-badge&"></a>
+  <a href="https://drive.google.com/file/d/1UxHu69Qynt1OXwM5oTlx4YADiPNepyXW/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-311b92?style=for-the-badge&"></a>
   <a href = "mailto:lucaslaino00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucaslaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
