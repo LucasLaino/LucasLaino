@@ -8,11 +8,10 @@
   <p>Desenvolvedor web júnior, cursando o 8° semestre de Ciência da Computação. Atualmente focado em desenvolvimento front-end e iniciando os estudos em Back-end.</p>
   <p>Meu objetivo a curto prazo é conquistar minha primeira vaga como dev profissional. Meu objetivo a longo prazo é me tornar um dev Full-stack.</p>
   
-  <a href="https://drive.google.com/file/d/1ELxJgpnoft1ryLinLUyrTDcHvIOj0HYs/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cv-5c0a8a?style=for-the-badge&logo=google-docs&logoColor=white
-  "></a>
+  <a href="https://drive.google.com/file/d/1ELxJgpnoft1ryLinLUyrTDcHvIOj0HYs/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Cv-311b92?style=for-the-badge&"></a>
   <a href = "mailto:lucaslaino00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucaslaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </section>
+</section>
 
 <section>
 <h2 align="center"> Stacks </h2>
