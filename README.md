@@ -1,42 +1,64 @@
-<h1 style= "color: #fff">Lucas Laino de Andrade - < Dev Web júnior /> ☕💻</h1>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=9000&pause=5000&color=fff&center=true&vCenter=true&width=435&lines=Welcome!" alt="Typing SVG" />
-</div>
 
 <section>
-  <p>Desenvolvedor web júnior, cursando o 8° semestre de Ciência da Computação. Atualmente focado em desenvolvimento front-end e iniciando os estudos em Back-end.</p>
-  <p>Meu objetivo a curto prazo é conquistar minha primeira vaga como dev profissional. Meu objetivo a longo prazo é me tornar um dev Full-stack.</p>
+  <p>Desenvolvedor Front-end com experiência na criação de interfaces web interativas, escaláveis e responsivas utilizando HTML, CSS, JavaScript, TypeScript, React e Next.js. Possuo conhecimento em desenvolvimento back-end com Node.js e PostgreSQL, permitindo-me construir e integrar APIs RESTful. 
+  <p>Com um foco forte no ecossistema JavaScript, minhas principais ferramentas são React, Next.js e TypeScript, que utilizo para construir componentes reutilizáveis e aplicações escaláveis.</p>
+  <p>Busco uma oportunidade para aplicar minhas habilidades na construção de soluções web escaláveis e de alta performance.</p>
+
+</p>
   
-  <a href="https://drive.google.com/file/d/1ELxJgpnoft1ryLinLUyrTDcHvIOj0HYs/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Cv-311b92?style=for-the-badge&"></a>
-  <a href = "mailto:lucaslaino00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucaslaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div align="center">
+    <a href="https://drive.google.com/file/d/1267HQLbk0S7nyGclnX1AobSvCymT8MwC/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-pt_BR_Cv-B0E0E6?style=for-the-badge&logo=googledocs"></a>
+    <a href="https://drive.google.com/file/d/1267HQLbk0S7nyGclnX1AobSvCymT8MwC/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-English_Cv-B0E0E6?style=for-the-badge&logo=googledocs"></a>
+    <a href = "mailto:lucaslaino00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
+    <a href="https://www.linkedin.com/in/lucaslaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 </section>
 
 <section>
-<h2 align="center"> Stacks </h2>
+  <h2 align="center">Repositórios em Destaque</h2>
 
-<h3>Front-end</h3>
+  <a href="https://github.com/LucasLaino/Acme-dashboard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLaino&repo=Acme-dashboard&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/LucasLaino/frontend-mentor-fylo-landing-page">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLaino&repo=frontend-mentor-fylo-landing-page&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/LucasLaino/algoritmos">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLaino&repo=algoritmos&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/LucasLaino/vnw-flix">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLaino&repo=vnw-flix&theme=radical" />
+  </a>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=dark)](https://skillicons.dev)
-
-<h3>Back-end</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,npm,&theme=dark)](https://skillicons.dev)
-
-<h3>Ferramentas</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=git,figma,vite,notion,vscode,vercel&theme=dark)](https://skillicons.dev)
 </section>
 
 <section>
-<h2> Git Hub Stats </h2>
+  <h2 align="center">Stack</h2>
+    <h3>Front-end</h3>
 
- ![Lucas Laino's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslaino&show_icons=true&include_all_commits=true&show=prs_merged&theme=radical)  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLaino&layout=compact&langs_count=6&theme=radical"/>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,jest&theme=dark)](https://skillicons.dev)
 
+  <h3>Back-end</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,npm,pnpm&theme=dark)](https://skillicons.dev)
+
+  <h3>Ferramentas</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=git,figma,vite,notion,vscode,vercel&theme=dark)](https://skillicons.dev)
 </section>
 
-<br>
+<section align="center">
+  <h2 align="center"> Git Hub Stats </h2>
 
-![snake gif](https://github.com/LucasLaino/LucasLaino/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/LucasLaino/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasLaino&theme=radical" />
+  </a>
+
+  <a href="https://github.com/LucasLaino/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasLaino&layout=compact&langs_count=8&theme=radical&card_width=320" />
+  </a>
+
+</section>
