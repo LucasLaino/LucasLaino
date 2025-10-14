@@ -1,4 +1,3 @@
-
 <section>
   <p>Desenvolvedor Front-end com experiência na criação de interfaces web interativas, escaláveis e responsivas utilizando HTML, CSS, JavaScript, TypeScript, React e Next.js. Possuo conhecimento em desenvolvimento back-end com Node.js e PostgreSQL, permitindo-me construir e integrar APIs RESTful. 
   <p>Com um foco no ecossistema JavaScript, minhas principais ferramentas são React, Next.js e TypeScript, que utilizo para construir componentes reutilizáveis e aplicações escaláveis.</p>
@@ -7,8 +6,8 @@
 </p>
   
   <div align="center">
-    <a href="https://drive.google.com/file/d/1y_l-E_kSfJqox8U66rlDaJb2i59TvgAx/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-pt_BR_Cv-B0E0E6?style=for-the-badge&logo=googledocs"></a>
-    <a href="https://drive.google.com/file/d/1267HQLbk0S7nyGclnX1AobSvCymT8MwC/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-English_Cv-B0E0E6?style=for-the-badge&logo=googledocs"></a>
+    <a href="https://drive.google.com/file/d/1y_l-E_kSfJqox8U66rlDaJb2i59TvgAx/view?usp=sharing"><img src="https://img.shields.io/badge/-pt_BR_Cv-B0E0E6?style=for-the-badge&logo=googledocs"></a>
+    <a href="https://drive.google.com/file/d/1dH_ud6AL3jxOkZ2sm0Gbzy_a4bp733mg/view?usp=sharing"><img src="https://img.shields.io/badge/-English_Cv-B0E0E6?style=for-the-badge&logo=googledocs"></a>
     <a href = "mailto:lucaslaino00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-950606?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
     <a href="https://www.linkedin.com/in/lucaslaino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0C72EB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
@@ -38,7 +37,7 @@
   <h2 align="center">Stack</h2>
     <h3>Front-end</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,jest&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,jest&theme=dark)](https://skillicons.dev)
 
   <h3>Back-end</h3>
 
