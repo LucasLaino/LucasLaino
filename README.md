@@ -13,11 +13,13 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
+
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F271295383173464074&query=%24.data.discord_status&label=Status&color=BA0017&labelColor=181825&style=flat-square&fallback_value=offline" alt="Status" />
-
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F271295383173464074&query=%24.data.discord_status&label=Status&color=BA0017&labelColor=181825&style=flat-square&fallback_value=offline" alt="Status" />
+</div>
+ 
 ---
 
 ## About Me
@@ -25,10 +27,10 @@
 Hello! I'm Lucas Laino de Andrade, a Software Developer focused on building efficient backend services and responsive frontend applications.
 Currently, I'm focused on Backend development with Java. My goal is to land my first job as a professional software developer.
 
-- 💻 Backend development with Java
-- ⚛️ Frontend development with React
-- 🗄️ Relational database design and management with PostgreSQL
-- 🔀 Version control and team collaboration using Git
+- Backend development with Java
+- Frontend development with React
+- Relational database design and management with PostgreSQL
+- Version control and team collaboration using Git
 
 
 ---
