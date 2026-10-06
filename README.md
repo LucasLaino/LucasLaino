@@ -17,16 +17,12 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F271295383173464074&query=%24.data.discord_status&label=Status&color=BA0017&labelColor=181825&style=flat-square&fallback_value=offline" alt="Status" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F271295383173464074&query=%24.data.activities%5B0%5D.name&label=Playing&color=00136E&labelColor=181825&style=flat-square&logo=steam&logoColor=white&fallback_value=Nothing rn" alt="Current Playing" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F271295383173464074&query=%24.data.activities%5B0%5D.details&label=Coding&color=FF7303&labelColor=181825&style=flat-square&logo=intellijidea&logoColor=white&fallback_value=Nothing rn" alt="Coding Activity" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.lanyard.rest%2Fv1%2Fusers%2F271295383173464074&query=%24.data.spotify.song&label=Listening&color=0A7D00&labelColor=181825&style=flat-square&logo=spotify&logoColor=white&fallback_value=Nothing rn" alt="Spotify Song" />
-</div>
 
 ---
 
 ## About Me
 
-Hello! I'm Lucas Laino de Andrade, a Software Developer focused on building efficient backend services and responsive frontend applications. 
+Hello! I'm Lucas Laino de Andrade, a Software Developer focused on building efficient backend services and responsive frontend applications.
 Currently, I'm focused on Backend development with Java. My goal is to land my first job as a professional software developer.
 
 - 💻 Backend development with Java
